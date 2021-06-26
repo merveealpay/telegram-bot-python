@@ -1,2 +1,6 @@
 # telegram-bot-python
-birkac basit mesaja cevap verebiliyor api entegrasyonu suan yok
+birkac basit mesaja cevap verebiliyor 
+cd telegram-python
+python main.py
+
+telegram: @PythonMerveBot
